@@ -15,6 +15,8 @@ The goal is to check whether each PAN number follows the official PAN format and
 *Validated PAN numbers based on official rules:*
 
 1.Exactly 10 characters long
+
+
 2.First 5 characters are letters
 3.Next 4 characters are digits
 4.Last character is a letter
