@@ -8,37 +8,37 @@ The goal is to check whether each PAN number follows the official PAN format and
 *Cleaned the raw PAN dataset by*:
 
 
-1.Handling missing PAN values
+1.  Handling missing PAN values
 
 
-2.Removing duplicate records
+2.  Removing duplicate records
 
 
-3.Trimming extra spaces
+3.  Trimming extra spaces
 
 
-4.Converting PAN numbers to uppercase
+4.  Converting PAN numbers to uppercase
 
 
 
 *Validated PAN numbers based on official rules:*
 
-1.Exactly 10 characters long
+1.  Exactly 10 characters long
 
 
-2.First 5 characters are letters
+2.  First 5 characters are letters
 
 
-3.Next 4 characters are digits
+3.  Next 4 characters are digits
 
 
-4.Last character is a letter
+4.  Last character is a letter
 
 
-5.No repeated adjacent characters
+5.  No repeated adjacent characters
 
 
-6.No complete alphabetical or numerical sequences
+6.  No complete alphabetical or numerical sequences
 
 
 
@@ -53,16 +53,16 @@ The goal is to check whether each PAN number follows the official PAN format and
 *Generated a summary report showing:*
 
 
-1.Total records processed
+1.  Total records processed
 
 
-2.Total valid PANs
+2.  Total valid PANs
 
 
-3.Total invalid PANs
+3.  Total invalid PANs
 
 
-4.Total missing or incomplete PANs
+4.  Total missing or incomplete PANs
 
 
 **Tools & Technologies Used**
