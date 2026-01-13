@@ -33,5 +33,6 @@ This project focuses on **cleaning and validating Indian PAN numbers** from a da
 ---
 
 ## **Tools & Technologies Used**
-- **SQL** – for data cleaning and validation logic  
+- **SQL** – for data cleaning and validation logic
+- **Python** - for data cleaning and validation logic
 - **Excel** – input dataset  
